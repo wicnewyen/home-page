@@ -1,0 +1,24 @@
+#title {
+    color:#e97db1;
+    font-size: 64px;
+    
+}
+#info {
+    color: #02b7dd;
+    font-size: 32px;
+    
+}
+#title, #info, .links {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.links{
+    font-size: 20px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 600px;
+}
