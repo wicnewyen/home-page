@@ -68,10 +68,6 @@ button {
   button:hover {
     color: #539df2;
   }
-  button:focus,
-  button:focus-visible {
-    outline: 4px auto -webkit-focus-ring-color;
-  }
   
 .links{
     font-size: 20px;
